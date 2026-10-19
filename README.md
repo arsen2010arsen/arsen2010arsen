@@ -1,4 +1,4 @@
-### 👋 Арсеній · Student
+### 👋 Arsenii · Student
 
 Створюю практичні PWA-додатки, Telegram-боти та інструменти автоматизації.
 
@@ -9,4 +9,4 @@
 - 🤖 Інші репозиторії: [Weather Scraper Bot](https://github.com/arsen2010arsen/weather-bot) · [RustDrops](https://github.com/arsen2010arsen/RustDrops)
 - ✈️ Зв'язок: [@riccardomorphine](https://t.me/riccardomorphine)
 
-`Python` · `JavaScript` · `Dart / Flutter` · `PWA` · `aiogram` · `Firebase` · `Gemini AI`
+`Python` · `JavaScript` · `Dart / Flutter` · `MongoDB` · `PWA` · `aiogram` · `Firebase` · `Gemini AI`
