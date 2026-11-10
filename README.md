@@ -7,7 +7,8 @@
 - 🍎 [FoodTracker AI](https://arsen2010arsen.github.io/FoodTracker/) — розумний щоденник харчування з Gemini AI (PWA)
 - 🏋️‍♂️ [Gym Logbook](https://arsen2010arsen.github.io/Gym-Logbook/) — мінімалістичний офлайн-журнал тренувань (PWA)
 - 📚 [RozkladKEP](https://t.me/rozkladKEPbot) — Telegram-бот розкладу занять та замін для коледжу
+- 📋 [Google Tasks Widget](https://github.com/arsen2010arsen/google-tasks-widget) — елегантний настільний віджет для Windows (Tauri / React)
 - 🤖 Інші репозиторії: [Weather Scraper Bot](https://github.com/arsen2010arsen/weather-bot)
 - ✈️ Зв'язок: [@riccardomorphine](https://t.me/riccardomorphine)
 
-`Python` · `JavaScript` · `Dart / Flutter` · `MongoDB` · `PWA` · `aiogram` · `Firebase` · `Gemini AI`
+`Python` · `JavaScript` · `Dart / Flutter` · `MongoDB` · `PWA` · `aiogram` · `Firebase` · `Gemini AI` · `Rust` · `Tauri`
